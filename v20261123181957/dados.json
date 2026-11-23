@@ -1,0 +1,11 @@
+{
+ "id": "v20261123181957",
+ "tema": "O colega apresentou meu projeto como se fosse dele",
+ "estilo": "familia",
+ "titulo": "",
+ "legenda": "",
+ "falas": [],
+ "criado": "2026-11-23T18:36:04",
+ "status": "erro",
+ "erro": "historia: Não consegui falar com a IA do Google. gemini-2.5-flash: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features a"
+}
